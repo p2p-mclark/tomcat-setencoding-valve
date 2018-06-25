@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Context>
+  <Valve className="it.unipi.di.acube.encodingValve.SetCharEncodingValve" encoding="UTF-8"/>
+</Context>
